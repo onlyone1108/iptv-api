@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-18 06:30:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-18 18:32:30,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -90,12 +90,15 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 宁夏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 宁夏卫视,https://migu.188766.xyz/?migutoken=012de0a3bdb81063b705ce8a52c13ecd&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 宁夏卫视,https://migu.188766.xyz/?migutoken=ddf4f69d1adc1992f507b09123bf713a&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
+宁夏卫视,https://migu.188766.xyz/?migutoken=1d9569f0a599002aefe10992c97b086a&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
 青海卫视,https://migu.188766.xyz/?migutoken=498034b126f19c3de50143c43d9fd29c&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 青海卫视,https://migu.188766.xyz/?migutoken=c5373f2858cf8f1da8e45323762a6705&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,https://migu.188766.xyz/?migutoken=400df9320243284bd89a2d4d5411a897&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
+青海卫视,https://migu.188766.xyz/?migutoken=2a99e08c6f9d7c71d0f44bc80c7db170&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
 山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -103,11 +106,17 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 陕西卫视,https://migu.188766.xyz/?migutoken=abe927594e5dc297c576d1bdb418237d&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d
+陕西卫视,https://migu.188766.xyz/?migutoken=c46d49279b74b54cd756dc1f7ee94d39&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+陕西卫视,https://migu.188766.xyz/?migutoken=e574660a9a85fd77ae197b6b4dfffcef&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+陕西卫视,https://migu.188766.xyz/?migutoken=535753902d86a35d2b7435d408da79f5&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
 三沙卫视,https://migu.188766.xyz/?migutoken=9f8e7826e5291edbf8e966a59c38e010&id=hn_ssws&type=sz
 三沙卫视,https://stream1.freetv.fun/2476872184d56573ae915237d8e3c990ded214446351f568b57889cbf63da2e8.m3u8
 三沙卫视,https://migu.188766.xyz/?migutoken=d8ddd0576c0bc222f8837fcea4b80769&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=053b95cc9854161ab2d3ec4a19a64762&id=hn_ssws&type=sz
+三沙卫视,https://migu.188766.xyz/?migutoken=cf6e7d6491238c29f6ea5395ef164794&id=hn_ssws&type=sz
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
