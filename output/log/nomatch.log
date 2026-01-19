@@ -2,12 +2,22 @@
     "urls": [
         { "url": "http://www.饭太硬.com/tv","name": "饭太硬" },
 { "url": "http://fan.xxooo.cf/tv","name": "饭太硬（备用）" },
+2026-01-19 06:18:56,http://23.237.228.134/live5/CCTV1.m3u8
 { "url": "http://xhww.fun/小米/DEMO.json","name": "小米" },
+CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 { "url": "http://肥猫.live","name": "肥猫" },
+CETV-1,https://migu.188766.xyz/?migutoken=36ef7f6bca62cec9abdcde133fce0012&id=CETV1&type=yy
 { "url": "https://tvbox.cainisi.cf","name": "菜妮丝" },
+CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风" },
+CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 { "url": "https://100km.top/0","name": "骚零" },
+CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 { "url": "http://tv.rihou.cc/天天开心","name": "天天开心" },
+CETV-1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy
 { "url": "http://rihou.cc:88/荷城茶秀","name": "荷城茶秀" },
+CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 { "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json","name": "短剧频道" },
+CETV-1,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer","name": "少儿频道" }
+CETV-1,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
