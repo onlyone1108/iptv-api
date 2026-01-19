@@ -1,23 +1,120 @@
+2026-01-19 18:22:47,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
+CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
+CETV-1,https://migu.188766.xyz/?migutoken=36ef7f6bca62cec9abdcde133fce0012&id=CETV1&type=yy
+CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
+CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
+CETV-1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy
+CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
+CETV-1,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-1,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-2,http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+CETV-2,https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=58dbb8ad5ad539c0da365c819615222219346bbe2fa8d6e4231da9ad89c4faf34adbae451bebfa99d9b8c9eda32e04a0066231dfd40496610efa4bee9ad5f110baee36b6f4098850d6b507505f
+CETV-2,https://cc06.tv12.xyz/24.m3u8
+CETV-2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
+CETV-2,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=202601140802499d512d62eaa74d1b80ee724fa99806db&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260114080249&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260114080249&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b9d246dd5c12d10834cf46710ab76f30&sv=10004&ct=android
+CETV-2,http://159.75.85.63:36666/migu/923287211.m3u8?migutoken=a07f322cf5bfbec0348e3aead4d37ada80378e6034baa4ff1751d461138ade5d189d14738774331941fdfbb405487a29fc818d56c06576a49f157e408000ec1920d6e016c4b3b64b8776e85093
+CETV-2,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-2.m3u8&sign=mzxn4l
+CETV-2,http://221.221.153.193:8888/rtp/239.3.1.54:4120
+CETV-2,http://1.82.144.44:4022/rtp/239.109.205.48:8320
+CETV-2,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.6:9554
+CETV-3,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
+CETV-3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CETV-3.m3u8&sign=mzxn4l
+CETV-3,http://221.221.153.193:8888/rtp/239.3.1.55:4120
+CETV-3,http://123.7.110.43:9901/tsfile/live/1024_1.m3u8
+CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
+CETV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
+CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
+CETV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
+CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+CETV-3,http://iptv.666230.xyz/iptv/jsyd.php/G_CETV-3
+CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
+CETV-4,https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CETV4&type=yy
+CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
+CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy
+CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8
+CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
+文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
+文化精品,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
+文化精品,http://zhancheng.x3322.net:6699/live/1079/index.m3u8
+文化精品,http://1.82.144.44:4022/rtp/239.111.205.75:5140
+文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
+文化精品,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-WENHUA-CQ
+央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+央视台球,http://zhancheng.x3322.net:6699/live/1077/index.m3u8
+央视台球,http://221.221.153.193:8888/rtp/239.3.1.85:4120
+央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
+央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+风云音乐,http://171.83.103.119:9999/rtp/239.69.1.90:10180
+风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
+风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
+风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
+第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+第一剧场,http://171.83.103.119:9999/rtp/239.69.1.74:10084
+第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
+第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
+第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+第一剧场,https://hls-gateway.vpstv.net/streams/708862.m3u8
+第一剧场,http://tl.061833.xyz/tl/null-6
+第一剧场,https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=2190244325&u=hahayy&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
+第一剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_DIYIJC-CQ
+风云剧场,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
+风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
+风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
+怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.89:10174
+怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
+怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
+女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
+高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
+高尔夫网球,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-GOLF-CQ
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+风云足球,http://27.41.245.32:801/hls/906/index.m3u8
+风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
+风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
+风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
+电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
+电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
+兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+兵器科技,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
+兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8
+兵器科技,http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ
 { 
     "urls": [
         { "url": "http://www.饭太硬.com/tv","name": "饭太硬" },
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 { "url": "http://fan.xxooo.cf/tv","name": "饭太硬（备用）" },
-2026-01-19 06:18:56,http://23.237.228.134/live5/CCTV1.m3u8
+香港卫视,http://101.35.240.114:88/live.php?id=香港卫视
 { "url": "http://xhww.fun/小米/DEMO.json","name": "小米" },
-CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 { "url": "http://肥猫.live","name": "肥猫" },
-CETV-1,https://migu.188766.xyz/?migutoken=36ef7f6bca62cec9abdcde133fce0012&id=CETV1&type=yy
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 { "url": "https://tvbox.cainisi.cf","name": "菜妮丝" },
-CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风" },
-CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 { "url": "https://100km.top/0","name": "骚零" },
-CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 { "url": "http://tv.rihou.cc/天天开心","name": "天天开心" },
-CETV-1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy
+香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 { "url": "http://rihou.cc:88/荷城茶秀","name": "荷城茶秀" },
-CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
+香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 { "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json","name": "短剧频道" },
-CETV-1,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
 { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer","name": "少儿频道" }
-CETV-1,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
