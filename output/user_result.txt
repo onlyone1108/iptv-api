@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-09 06:59:05,http://112.27.235.94:8000/hls/1/index.m3u8
+2026-05-09 19:01:14,http://112.27.235.94:8000/hls/1/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://112.27.235.94:8000/hls/1/index.m3u8
@@ -28,8 +28,8 @@ CCTV-5,https://hls-gateway.vpstv.net/streams/476885.m3u8
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-CCTV-5+,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
 CCTV-5+,http://112.27.235.94:8000/hls/6/index.m3u8
+CCTV-5+,http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
@@ -118,8 +118,8 @@ CCTV-17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 广东卫视,http://www.wmviv.com/iptv/bc2t.php?id=gdws
 广东卫视,http://101.35.240.114:88/live.php?id=广东卫视
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
-浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
+浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
