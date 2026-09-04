@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2026-09-04 07:51:24,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-09-04 22:05:05,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
